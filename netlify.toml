@@ -1,0 +1,4 @@
+[[redirects]] 
+from = "/*"
+to = "/terms and condition.html"
+status = 200
